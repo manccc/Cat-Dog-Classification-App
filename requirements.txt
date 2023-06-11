@@ -1,0 +1,7 @@
+flask
+tensorflow-cpu
+tensorflow_hub
+matplotlib
+numpy
+gunicorn
+keras
