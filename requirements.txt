@@ -5,5 +5,3 @@ matplotlib
 numpy
 gunicorn
 keras
-tensorflow-gpu
-tensorflow-estimator
